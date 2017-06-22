@@ -1,6 +1,6 @@
 # TTMSWEB
 
-地址 : http://www.ksgin.online
+[主页](http://www.ksgin.online/ttms)
 
 票务管理系统Web
 可用测试数据:
